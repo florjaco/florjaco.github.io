@@ -2,11 +2,11 @@
 remote_theme: 'epidrome/cover-card'
 
 # Title and tag line
-title: 'My name'
-description: 'I am amazing.'
+title: 'Florencia Jacobacci'
+description: 'Biomedical Enginerr based in Buenos Aires, Argentina.'
 
 # Images
-avatar: 'avatar.jpg'
+avatar: 'FJ.jpg'
 background: 'background.jpg'
 favicon: 'favicon.ico'
 
