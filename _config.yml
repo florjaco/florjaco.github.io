@@ -1,14 +1,14 @@
 # main text of home
-name: Florencia Jacobacci 
-bio: Biomedical Engineer
+name: John Doe
+bio: A Man who travels the world eating noodles
 
 # twitter summary info
-description: Personal web page
+description: A blog about technology and stuff related
 
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: FJ.jpg
+picture: assets/images/profile.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
