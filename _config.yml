@@ -16,7 +16,7 @@ linkedin: 'mylinkedin'
 github-user: 'mygithub'
 email: 'hello@example.com'
 
-social-links-order: [github-user, linkedin, email]
+social-links-order: [github-user, linkedin, email, about-me]
 
 # Advanced settings
 plugins:
@@ -55,7 +55,7 @@ social-links:
     url-pattern: 'florenciajacobacci@gmail.com'
     icon-class: fas fa-2x fa-envelope
     
-  - name: about me
+  - name: about-me
     url-pattern: 'https://github.com/florjaco/florjaco.github.io/about.md'
     icon-class: fas fa-2x fa-info-circle
     
